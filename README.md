@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Kyle (he/him).
+
+I'm currently a Staff Platform Engineer at [EraDB](https://eradb.com/). Previously I have worked at [Thorn](https://www.thorn.org/) as a Staff Engineer and [Zapproved](https://zapproved.com/) as a Tech Lead. My passions and interest are generally focused around designing architectures to complex problems with a focus on solutions with a cloud first approach. I have published my own ebook + video course focused on [Learning AWS By Using It](https://kylegalbraith.com/learn-aws/).
 <!--
 **kylegalbraith/kylegalbraith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
