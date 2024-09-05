@@ -2,7 +2,11 @@
 
 I'm Kyle (he/him).
 
-I'm currently a Staff Platform Engineer at [EraDB](https://eradb.com/). Previously I worked at [Thorn](https://www.thorn.org/) as a Staff Engineer and [Zapproved](https://zapproved.com/) as a Tech Lead. My passions and interest are generally focused around designing architectures and solutions to complex problems with a focus on solutions with a cloud first approach. I have published my own ebook + video course focused on [Learning AWS By Using It](https://kylegalbraith.com/learn-aws/).
+I'm the co-founder & CEO of [Depot](https://depot.dev) where we are working to eliminate wasted time waiting for slow builds. Previously I worked at Era Software as a Staff Platform Engineer, [Thorn](https://www.thorn.org/) as a Staff Engineer and [Zapproved](https://zapproved.com/) as a Tech Lead.
+
+I've also written my own book and currently live in Montpellier, France 🇫🇷
+
+You can follow me on [X](https://twitter.com/kylegalbraith), [LinkedIn](https://www.linkedin.com/in/kylegalbraith459/), and [my personal blog](https://blog.kylegalbraith.com) where I share some of my expat journey and more non-founder thoughts.
 <!--
 **kylegalbraith/kylegalbraith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
